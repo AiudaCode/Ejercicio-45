@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1490244967 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 45\main.cpp
+	<iostream>
+	"Transportador.h"
+
+1490244782 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 45\include\transportador.h
+
+1490244908 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 45\src\transportador.cpp
+	"Transportador.h"
+
